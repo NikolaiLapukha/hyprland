@@ -1,0 +1,21 @@
+
+window {
+	margin: 5px;
+	border: 2px solid #2b313c;
+	background-color: #434c5e;
+	font-family: "Hack Nerd Font";
+	color: #d1d3d7;
+}
+#entry:selected {
+	background-color: #88c0d0;
+	color: #2e3440;
+}
+#input {
+	border: 2px solid #434c5e;
+	background-color: #434c5e;
+	color: #d1d3d7;
+	margin: 0 2px;
+}
+#text:selected{
+	color:#2e3440;
+}
